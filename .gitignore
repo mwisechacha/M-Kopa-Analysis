@@ -1,0 +1,16 @@
+# env
+/env
+env
+venv
+
+# IDE
+.idea
+.vscode
+
+# ipynb checkpoints
+.ipynb_checkpoints
+
+# data files
+.csv
+.xlsx
+csv
